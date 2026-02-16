@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-02-16 13:53:05.469977",
+    "trends": [
+      "Bitcoin",
+      "Bittensor",
+      "Solana",
+      "pippin",
+      "Pudgy Penguins",
+      "Pi Network",
+      "Venice Token",
+      "Lighter",
+      "Initia",
+      "Ethereum",
+      "Hyperliquid",
+      "Sui",
+      "Aztec",
+      "Zama",
+      "VeChain"
+    ],
+    "report": "AI analysis failed: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+  },
+  {
+    "date": "2026-02-16 13:56:28.142335",
+    "trends": [
+      "Bitcoin",
+      "Bittensor",
+      "Solana",
+      "pippin",
+      "Pudgy Penguins",
+      "Pi Network",
+      "Venice Token",
+      "Lighter",
+      "Initia",
+      "Ethereum",
+      "Hyperliquid",
+      "Sui",
+      "Aztec",
+      "Zama",
+      "VeChain"
+    ],
+    "report": "AI analysis failed: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+  },
+  {
+    "date": "2026-02-16 13:58:27.171339",
+    "trends": [
+      "Bitcoin",
+      "Bittensor",
+      "Solana",
+      "pippin",
+      "Pudgy Penguins",
+      "Pi Network",
+      "Venice Token",
+      "Lighter",
+      "Initia",
+      "Ethereum",
+      "Hyperliquid",
+      "Sui",
+      "Aztec",
+      "Zama",
+      "VeChain"
+    ],
+    "report": "AI analysis failed: 404 models/gemini-1.5 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+  },
+  {
+    "date": "2026-02-16 14:15:32.449616",
+    "trends": [
+      "Bitcoin",
+      "Pudgy Penguins",
+      "Bittensor",
+      "Solana",
+      "Initia",
+      "Pi Network",
+      "pippin",
+      "Lighter",
+      "Venice Token",
+      "Ethereum",
+      "Hyperliquid",
+      "River",
+      "Pepe",
+      "Aave",
+      "Zama"
+    ],
+    "report": "AI analysis unavailable at this time."
+  }
+]
